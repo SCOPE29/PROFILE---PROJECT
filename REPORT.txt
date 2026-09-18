@@ -1,0 +1,7 @@
+2fa7229 (HEAD -> master) Add list of current courses
+c9037aa Initial commit: create profile page
+
+
+a393a0b (HEAD -> master, design-update) Design-Update
+2fa7229 Add list of current courses
+c9037aa Initial commit: create profile page
